@@ -13,4 +13,3 @@ end
 def pop_with_args(arr, num)
   arr.pop(num)
 end
-
